@@ -1,4 +1,6 @@
-	# Code snippet to embed Coderwall echivments with no dependencies (namly - Jquery)
+Code snippet to embed Coderwall achievements
+================================
+
   This is a very simple Javascript/CoffeScript code I used in a my online CV site so that I
   could easily embed coderwall badges with no dependency on Jquery.
 
